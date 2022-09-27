@@ -11,25 +11,25 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
+- Orange: hsl(26, 100%, 55%)
+- Pale orange: hsl(25, 100%, 94%)
 
 ### Neutral
 
-- Very dark blue: hsl(212, 21%, 14%)
-- Dark grayish blue: hsl(228, 12%, 48%)
+- Very vark blue: hsl(220, 13%, 13%)
+- Dark grayish blue: hsl(219, 9%, 45%)
+- Grayish blue: hsl(220, 14%, 75%)
+- Light grayish blue: hsl(223, 64%, 98%)
 - White: hsl(0, 0%, 100%)
+- Black (with 75% opacity for lightbox background): hsl(0, 0%, 0%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraph): 14px
+- Font size (paragraph): 16px
 
 ### Font
 
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
-- Weights: 500, 700
-
-- Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
-- Weights: 700
+- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- Weights: 400, 700
